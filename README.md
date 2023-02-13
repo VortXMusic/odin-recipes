@@ -1,1 +1,3 @@
 # odin-recipes
+
+This is my first ever HTML project for The Odin Project. Made a basic index page with ingredients displayed on it. Added href to 3 recipe pages stored in the "pages" folder. Each recipe has an image, unordered list of ingredients and and ordered list of steps required to make the dish. Nothing complex, but helped me practice and work on various stuff such as git operations, terminal operations and, of course, HTML. First step of many, hopefully.
