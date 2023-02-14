@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+#hero-img{
+    height: auto;
+    width: 500px;
+}
+
+.font
+{
+    font-family: "Montserrat", serif;
+}
+
+h1{
+    font-size: 75px;
+    color: white;
+    font-weight: Bold;
+    text-align: center;
+}
+
+a{
+    font-size: 35px;
+    color: white;
+}
